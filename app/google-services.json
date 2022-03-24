@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591714107149",
+    "project_id": "ccrudkotlin",
+    "storage_bucket": "ccrudkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591714107149:android:9a4825d0cf1a4452fcfa44",
+        "android_client_info": {
+          "package_name": "com.example.ccrudkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591714107149-cm90dc2nj26omn4tedmo28mpemodk15l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1HHpMiifad509vJKGo8IPm9FfiGt6Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591714107149-cm90dc2nj26omn4tedmo28mpemodk15l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
